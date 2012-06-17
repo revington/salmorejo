@@ -54,6 +54,7 @@
     <Compile Include="Salmorejo.Utility\Levenshtein.cs" />
     <Compile Include="Salmorejo.System\DateTimeExtensions.cs" />
     <Compile Include="Salmorejo.System\GenericEventArgs.cs" />
+    <Compile Include="Salmorejo.System\SerializableKeyValuePair.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
