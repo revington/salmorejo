@@ -20,8 +20,15 @@
 //  along with this program; if not, write to the Free Software
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // 
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Threading;
+using System.Runtime.Serialization.Formatters;
+using System.Runtime.Serialization;
 
 namespace Salmorejo.System
 {
@@ -137,6 +144,50 @@ namespace Salmorejo.System
 				}
 			};
 		}
+		
+		/// <summary>
+		/// Basic memoize + memento implementation
+		/// </summary>
+		public static Func<T, TResult> MemoizeAndMemento<T, TResult>(this Func<T, TResult> func, string path)
+        {
+            Dictionary<T, TResult> t = new Dictionary<T, TResult>();
+            if (File.Exists(path))
+            {
+                using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
+                {
+                    IFormatter formatter = new BinaryFormatter();
+                    t = (Dictionary<T, TResult>)formatter.Deserialize(fs);
+                }
+            }
+                
+            return n =>
+            {
+                if (t.ContainsKey(n)){
+					return t[n];
+				}
+                else
+                {
+                    var result = func(n);
+                    Monitor.Enter(t);
+                    try
+                    {
+                        t.Add(n, result);
+                        using (FileStream fs = new FileStream(path, FileMode.Create, FileAccess.Write))
+                        {
+                            IFormatter formatter = new BinaryFormatter();
+                            formatter.Serialize(fs, t);
+                        }
+                    }
+                    finally
+                    {
+                        Monitor.Exit(t);
+                    }
+                    
+                    return result;
+                }
+            };
+        }
+
 
 	}
 }
