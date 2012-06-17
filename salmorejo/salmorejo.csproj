@@ -37,7 +37,6 @@
     <Folder Include="Salmorejo.System.Collections\" />
     <Folder Include="Salmorejo.System\" />
     <Folder Include="Salmorejo.System.Security.Cryptography\" />
-    <Folder Include="Salmorejo.System.Linq\" />
     <Folder Include="Salmorejo.Utility\" />
     <Folder Include="Salmorejo.System.Web\" />
   </ItemGroup>
@@ -50,7 +49,6 @@
     <Compile Include="Salmorejo.System\StringExtensions.cs" />
     <Compile Include="Salmorejo.System.Security.Cryptography\HashAlgorithmExtensions.cs" />
     <Compile Include="Salmorejo.System.Security.Cryptography\SymmetricAlgorithmExtensions.cs" />
-    <Compile Include="Salmorejo.System.Linq\EnumerableExtensions.cs" />
     <Compile Include="Salmorejo.Utility\Spatial.cs" />
     <Compile Include="Salmorejo.Utility\Levenshtein.cs" />
     <Compile Include="Salmorejo.System\DateTimeExtensions.cs" />
@@ -61,6 +59,7 @@
     <Compile Include="Salmorejo.Utility\Serialization.cs" />
     <Compile Include="Salmorejo.System\Base36.cs" />
     <Compile Include="Salmorejo.Utility\LinqToSqlLogQuery.cs" />
+    <Compile Include="Salmorejo.System.Collections.Generic\EnumerableExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -23,9 +23,8 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
-using Salmorejo.System.Collections.Generic;
 
-namespace Salmorejo.System.Linq
+namespace Salmorejo.System.Collections.Generic
 {
 	public static class Enumerable2
 	{
