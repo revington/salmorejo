@@ -38,6 +38,7 @@
     <Folder Include="Salmorejo.System\" />
     <Folder Include="Salmorejo.System.Security.Cryptography\" />
     <Folder Include="Salmorejo.System.Linq\" />
+    <Folder Include="Salmorejo.Utility\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Salmorejo.System.Collections\IListExtensions.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="Salmorejo.System.Security.Cryptography\HashAlgorithmExtensions.cs" />
     <Compile Include="Salmorejo.System.Security.Cryptography\SymmetricAlgorithmExtensions.cs" />
     <Compile Include="Salmorejo.System.Linq\EnumerableExtensions.cs" />
+    <Compile Include="Salmorejo.Utility\Spatial.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
