@@ -100,9 +100,39 @@ namespace Salmorejo.System.Linq
 				}
 			}
 
-			if (chunk.Any ()){
+			if (chunk.Any ()) {
 				yield return chunk;
 			}
+		}
+		
+		public static IEnumerable<T> Filter<T> (this IEnumerable<T> self, Predicate<T> predicate)
+		{
+			if (self == null)
+				throw new ArgumentNullException ("self");
+			if (predicate == null)
+				throw new ArgumentNullException ("predicate");
+
+			foreach (var item in self) {
+				if (predicate (item))
+					yield return item;
+			}
+		}
+		
+		/// <summary>
+		/// Get the specified page of the given collection.
+		/// </summary>
+		/// <param name='self'>
+		/// Self.
+		/// </param>
+		/// <param name='page'>
+		/// Page.
+		/// </param>
+		/// <param name='itemsPerPage'>
+		/// Specify how much items per page.
+		/// </param>
+		public static IEnumerable<T> Page<T> (this IEnumerable<T> self, int page, int itemsPerPage)
+		{
+			return self.Skip (page * itemsPerPage).Take (itemsPerPage);
 		}
 	}
 }
