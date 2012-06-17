@@ -58,6 +58,7 @@
     <Compile Include="Salmorejo.System\SerializableKeyValuePair.cs" />
     <Compile Include="Salmorejo.System.Web\HttpContextExtensions.cs" />
     <Compile Include="Salmorejo.Utility\TimedLog.cs" />
+    <Compile Include="Salmorejo.Utility\Serialization.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
