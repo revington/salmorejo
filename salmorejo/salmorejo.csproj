@@ -59,6 +59,7 @@
     <Compile Include="Salmorejo.System.Web\HttpContextExtensions.cs" />
     <Compile Include="Salmorejo.Utility\TimedLog.cs" />
     <Compile Include="Salmorejo.Utility\Serialization.cs" />
+    <Compile Include="Salmorejo.System\Base36.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
