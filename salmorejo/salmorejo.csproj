@@ -51,6 +51,7 @@
     <Compile Include="Salmorejo.System.Security.Cryptography\SymmetricAlgorithmExtensions.cs" />
     <Compile Include="Salmorejo.System.Linq\EnumerableExtensions.cs" />
     <Compile Include="Salmorejo.Utility\Spatial.cs" />
+    <Compile Include="Salmorejo.Utility\Levenshtein.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
