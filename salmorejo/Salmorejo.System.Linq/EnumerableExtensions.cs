@@ -78,6 +78,16 @@ namespace Salmorejo.System.Linq
 			return defaultValue;
 		}
 		
+		/// <summary>
+		/// Chunkify the specified this sequence into a 
+		/// sequence of chuncks of the given size
+		/// </summary>
+		/// <param name='self'>
+		/// Self.
+		/// </param>
+		/// <param name='size'>
+		/// Size.
+		/// </param>
 		public static IEnumerable<IEnumerable<TSource>> Chunkify<TSource> (this IEnumerable<TSource> self, int size)
 		{
 			List<TSource> chunk = new List<TSource> (size);
