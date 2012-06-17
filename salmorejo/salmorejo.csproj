@@ -60,9 +60,11 @@
     <Compile Include="Salmorejo.Utility\TimedLog.cs" />
     <Compile Include="Salmorejo.Utility\Serialization.cs" />
     <Compile Include="Salmorejo.System\Base36.cs" />
+    <Compile Include="Salmorejo.Utility\LinqToSqlLogQuery.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Data.Linq" />
   </ItemGroup>
 </Project>
