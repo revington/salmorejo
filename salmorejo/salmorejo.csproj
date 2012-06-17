@@ -39,6 +39,7 @@
     <Folder Include="Salmorejo.System.Security.Cryptography\" />
     <Folder Include="Salmorejo.System.Linq\" />
     <Folder Include="Salmorejo.Utility\" />
+    <Folder Include="Salmorejo.System.Web\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Salmorejo.System.Collections\IListExtensions.cs" />
@@ -55,6 +56,7 @@
     <Compile Include="Salmorejo.System\DateTimeExtensions.cs" />
     <Compile Include="Salmorejo.System\GenericEventArgs.cs" />
     <Compile Include="Salmorejo.System\SerializableKeyValuePair.cs" />
+    <Compile Include="Salmorejo.System.Web\HttpContextExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
