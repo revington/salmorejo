@@ -53,6 +53,7 @@
     <Compile Include="Salmorejo.Utility\Spatial.cs" />
     <Compile Include="Salmorejo.Utility\Levenshtein.cs" />
     <Compile Include="Salmorejo.System\DateTimeExtensions.cs" />
+    <Compile Include="Salmorejo.System\GenericEventArgs.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
