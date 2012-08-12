@@ -1,5 +1,5 @@
 // 
-//  EnumerableExtensions.cs
+//  DateTimeRange.cs
 //  
 //  Author:
 //       Pedro Narciso García Revington <p.revington@gmail.com>
@@ -21,36 +21,23 @@
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // 
 using System;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace Salmorejo.System.Collections.Generic
 {
 	public static partial class Enumerable2
 	{
-		
-	}
-
-	public static class EnumerableExtensions
-	{
-
-		
-		
-		/// <summary>
-		/// Get the specified page of the given collection.
-		/// </summary>
-		/// <param name='self'>
-		/// Self.
-		/// </param>
-		/// <param name='page'>
-		/// Page.
-		/// </param>
-		/// <param name='itemsPerPage'>
-		/// Specify how much items per page.
-		/// </param>
-		public static IEnumerable<T> Page<T> (this IEnumerable<T> self, int page, int itemsPerPage)
+		public static IEnumerable<DateTime> Range (DateTime start, DateTime end)
 		{
-			return self.Skip (page * itemsPerPage).Take (itemsPerPage);
+			return Range (start, end, 1);
+		}
+
+		public static IEnumerable<DateTime> Range (DateTime start, DateTime end, int stepDays)
+		{
+			while (start <= end) {
+				yield return start;
+				start = start.AddDays (stepDays);
+			}
 		}
 	}
 }

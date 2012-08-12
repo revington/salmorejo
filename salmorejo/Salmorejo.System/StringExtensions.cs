@@ -20,7 +20,6 @@
 //  along with this program; if not, write to the Free Software
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // 
-
 using System;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -86,8 +85,9 @@ namespace Salmorejo.System
 		public static byte[] HexStringToByteArray (this string self)
 		{
 			byte[] returnBytes = new byte[self.Length / 2];
-			for (int i = 0; i < returnBytes.Length; i++)
+			for (int i = 0; i < returnBytes.Length; i++) {
 				returnBytes [i] = Convert.ToByte (self.Substring (i * 2, 2), 16);
+			}
 			return returnBytes;
 		}
 
@@ -102,8 +102,9 @@ namespace Salmorejo.System
 		/// <returns></returns>
 		public static T ParseToEnum<T> (this string self)
 		{
-			if (string.IsNullOrEmpty (self))
+			if (string.IsNullOrEmpty (self)) {
 				throw new ArgumentNullException ("string");
+			}
 			return (T)Enum.Parse (typeof(T), self, true);
 		}
 
@@ -118,8 +119,9 @@ namespace Salmorejo.System
 		/// <returns></returns>
 		public static T ParseToEnumExact<T> (this string self)
 		{
-			if (string.IsNullOrEmpty (self))
+			if (string.IsNullOrEmpty (self)){
 				throw new ArgumentNullException ("string");
+			}
 			return (T)Enum.Parse (typeof(T), self, false);
 		}
 

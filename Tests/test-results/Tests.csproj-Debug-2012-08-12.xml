@@ -1,0 +1,2740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:31:13</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:33:06</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:37:32</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:37:56</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:39:11</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:49:44</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:51:06</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T14:55:34</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>3</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,28 ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T15:05:47</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T15:06:38</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>2</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T15:42:50</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>2</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,19 ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2012-08-12T15:43:54</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>2</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,20 ms</Message>
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="Salmorejo">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:31:13</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:33:06</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:37:32</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:37:56</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:39:11</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:49:44</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:51:06</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:55:34</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:05:47</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:06:38</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:42:50</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,19 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:43:54</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>2</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,20 ms</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="System">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:42:50</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,18 ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:43:54</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,20 ms</Message>
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="ISO8601DurationTests">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:31:13</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:33:06</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:37:32</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:37:56</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:39:11</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:49:44</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:51:06</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T14:55:34</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T15:05:47</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,14 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T15:06:38</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>5</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,13 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T15:42:50</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>9</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,18 ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2012-08-12T15:43:54</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>10</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,20 ms</Message>
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Test_days">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:31:13</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:33:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:32</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:56</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:39:11</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:49:44</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:51:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:55:34</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:05:47</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:06:38</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Test_months">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:31:13</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:33:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:32</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:56</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:39:11</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:49:44</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:51:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:55:34</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:05:47</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:06:38</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Test_positive">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:31:13</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:33:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:32</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:56</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:39:11</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:49:44</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:51:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:55:34</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:05:47</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:06:38</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Test_years">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:31:13</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:33:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:32</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:37:56</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:39:11</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:49:44</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:51:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T14:55:34</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:05:47</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:06:38</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Add_days">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Add_months">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Add_months_avoid_leap">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Add_one_month">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Add_years">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:42:50</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+                <TestRecord Name="Remove_years">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-08-12T15:43:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+    <TestRecord Name="XSDurationTests">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:31:13</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:33:06</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:37:32</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>5</TotalFailures>
+          <TotalSuccess>4</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:37:56</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:39:11</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:49:44</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:51:06</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>4</TotalFailures>
+          <TotalSuccess>5</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T14:55:34</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>9</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,12 ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:05:47</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>2</TotalFailures>
+          <TotalSuccess>8</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2012-08-12T15:06:38</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>2</TotalFailures>
+          <TotalSuccess>8</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Add_days">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 7, val : 10
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Add_months">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:49 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:49 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:50 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:50 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:50 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:50 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2001-01-01 00:00:00.000
+  But was:  2001-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:50 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Add_one_month">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:58 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:58 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2000-02-01 00:00:00.000
+  But was:  2000-02-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_one_month () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 5, val : 1
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Add_years">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:40 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:40 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:41 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:41 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:41 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:41 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2005-01-01 00:00:00.000
+  But was:  2005-01-02 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_years () [0x00028] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:41 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput>pos True
+x: 3, val : 5
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="FQuotient_a_low_high_equals_FQuotient_a_minus_low_and_high_minus_low">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="FQuotient_return_the_greatest_integer_less_than_or_equal_to_A_div_B">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Modulo_a_b_equals_a_minus_FQuotient_a_b_multiplied_by_b">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Modulo_a_low_high_equals_Modulo_a_minus_low_AND_high_minus_low_plus_low">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:31:13</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:33:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:32</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 0
+  But was:  12.0d
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Modulo_a_low_high_equals_Modulo_a_minus_low_AND_high_minus_low_plus_low () [0x0004b] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:108 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:37:56</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:39:11</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:49:44</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:51:06</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T14:55:34</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+        <TestRecord Name="Add_months_avoid_leap">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:05:47</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>System.ArgumentOutOfRangeException : Argument is out of range.
+Parameter name: Parameters describe an unrepresentable DateTime.</Message>
+              <StackTrace>  at System.DateTime..ctor (Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second, Int32 millisecond) [0x000ab] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System/DateTime.cs:307 
+  at System.DateTime..ctor (Int32 year, Int32 month, Int32 day) [0x00000] in &lt;filename unknown&gt;:0 
+  at XSDurationTests.Add_months_avoid_leap () [0x0000f] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput />
+              <ConsoleError />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2012-08-12T15:06:38</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>  Expected: 2013-03-01 00:00:00.000
+  But was:  2013-02-28 00:00:00.000
+</Message>
+              <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x0002c] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:2207 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:886 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in /home/pedro/build/mono-2.10.8/mcs/nunit24/NUnitFramework/framework/Assert.cs:913 
+  at XSDurationTests.Add_months_avoid_leap () [0x00029] in /home/pedro/Documentos/work/kuki/salmorejo/Tests/Salmorejo.System/XSDuration.cs:59 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d5] in /home/pedro/build/mono-2.10.8/mcs/class/corlib/System.Reflection/MonoMethod.cs:226 </StackTrace>
+              <ConsoleOutput>pos True
+x: 5, val : 12
+</ConsoleOutput>
+              <ConsoleError />
+            </UnitTestResult>
+          </Results>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

@@ -1,5 +1,5 @@
 // 
-//  EnumerableExtensions.cs
+//  FirstOrDefault.cs
 //  
 //  Author:
 //       Pedro Narciso García Revington <p.revington@gmail.com>
@@ -21,37 +21,44 @@
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // 
 using System;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace Salmorejo.System.Collections.Generic
 {
 	public static partial class Enumerable2
 	{
-		
-	}
-
-	public static class EnumerableExtensions
-	{
-
-		
-		
-		/// <summary>
-		/// Get the specified page of the given collection.
-		/// </summary>
-		/// <param name='self'>
-		/// Self.
-		/// </param>
-		/// <param name='page'>
-		/// Page.
-		/// </param>
-		/// <param name='itemsPerPage'>
-		/// Specify how much items per page.
-		/// </param>
-		public static IEnumerable<T> Page<T> (this IEnumerable<T> self, int page, int itemsPerPage)
+		public static TSource FirstOrDefault<TSource> (
+            this IEnumerable<TSource> source, TSource defaultItem)
 		{
-			return self.Skip (page * itemsPerPage).Take (itemsPerPage);
+			if (source == null) {
+				throw new ArgumentNullException ("source");
+			}
+			using (IEnumerator<TSource> iterator = source.GetEnumerator()) {
+				return iterator.MoveNext () ? iterator.Current : defaultItem;
+			}
 		}
+	
+	public static TSource FirstOrDefault<TSource>(
+            this IEnumerable<TSource> source,
+            Func<TSource, bool> predicate, TSource defaultItem)
+        {
+            if (source == null)
+            {
+                throw new ArgumentNullException("source");
+            }
+            if (predicate == null)
+            {
+                throw new ArgumentNullException("predicate");
+            }
+            foreach (TSource item in source)
+            {
+                if (predicate(item))
+                {
+                    return item;
+                }
+            }
+            return defaultItem;
+        }
 	}
 }
 

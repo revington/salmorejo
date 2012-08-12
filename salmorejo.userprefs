@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Salmorejo.System/XSDuration.cs">
+    <Files>
+      <File FileName="salmorejo/Salmorejo.System/ISO8601Duration.cs" Line="42" Column="1" />
+      <File FileName="Tests/Salmorejo.System/XSDuration.cs" Line="76" Column="25" />
+      <File FileName="salmorejo/Salmorejo.System/XSDuration.cs" Line="69" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="salmorejo" expanded="True">
+            <Node name="Salmorejo.System" expanded="True" />
+            <Node name="Salmorejo.System.Collections" expanded="True" />
+            <Node name="Salmorejo.System.Collections.Generic" expanded="True" />
+            <Node name="Salmorejo.System.Security.Cryptography" expanded="True" />
+            <Node name="Salmorejo.Utility" expanded="True" />
+          </Node>
+          <Node name="Tests" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Salmorejo.System" expanded="True">
+              <Node name="XSDuration.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

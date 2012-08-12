@@ -1,5 +1,5 @@
 // 
-//  EnumerableExtensions.cs
+//  Chunkify.cs
 //  
 //  Author:
 //       Pedro Narciso García Revington <p.revington@gmail.com>
@@ -28,29 +28,31 @@ namespace Salmorejo.System.Collections.Generic
 {
 	public static partial class Enumerable2
 	{
-		
-	}
-
-	public static class EnumerableExtensions
-	{
-
-		
-		
 		/// <summary>
-		/// Get the specified page of the given collection.
+		/// Chunkify the specified this sequence into a 
+		/// sequence of chuncks of the given size
 		/// </summary>
 		/// <param name='self'>
 		/// Self.
 		/// </param>
-		/// <param name='page'>
-		/// Page.
+		/// <param name='size'>
+		/// Size.
 		/// </param>
-		/// <param name='itemsPerPage'>
-		/// Specify how much items per page.
-		/// </param>
-		public static IEnumerable<T> Page<T> (this IEnumerable<T> self, int page, int itemsPerPage)
+		public static IEnumerable<IEnumerable<TSource>> Chunkify<TSource> (this IEnumerable<TSource> self, int size)
 		{
-			return self.Skip (page * itemsPerPage).Take (itemsPerPage);
+			List<TSource> chunk = new List<TSource> (size);
+
+			foreach (TSource element in self) {
+				chunk.Add (element);
+				if (chunk.Count == size) {
+					yield return chunk;
+					chunk = new List<TSource> (size);
+				}
+			}
+
+			if (chunk.Any ()) {
+				yield return chunk;
+			}
 		}
 	}
 }

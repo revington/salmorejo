@@ -52,7 +52,6 @@
     <Compile Include="Salmorejo.Utility\Spatial.cs" />
     <Compile Include="Salmorejo.Utility\Levenshtein.cs" />
     <Compile Include="Salmorejo.System\DateTimeExtensions.cs" />
-    <Compile Include="Salmorejo.System\GenericEventArgs.cs" />
     <Compile Include="Salmorejo.System\SerializableKeyValuePair.cs" />
     <Compile Include="Salmorejo.System.Web\HttpContextExtensions.cs" />
     <Compile Include="Salmorejo.Utility\TimedLog.cs" />
@@ -60,6 +59,12 @@
     <Compile Include="Salmorejo.System\Base36.cs" />
     <Compile Include="Salmorejo.Utility\LinqToSqlLogQuery.cs" />
     <Compile Include="Salmorejo.System.Collections.Generic\EnumerableExtensions.cs" />
+    <Compile Include="Salmorejo.System\EventArgsofT.cs" />
+    <Compile Include="Salmorejo.System\ISO8601Duration.cs" />
+    <Compile Include="Salmorejo.System.Collections.Generic\FirstOrDefault.cs" />
+    <Compile Include="Salmorejo.System.Collections.Generic\Chunkify.cs" />
+    <Compile Include="Salmorejo.System.Collections.Generic\DistinctWithCustomComparer.cs" />
+    <Compile Include="Salmorejo.System.Collections.Generic\DateTimeRange.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
